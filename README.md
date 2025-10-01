@@ -46,8 +46,8 @@ Make it possible for future contributors (or you in 6 months) to:
    npm run dev
    ```
 5. Health-check
-   Backend: http://127.0.0.1:5000/api/health
-   Frontend: http://127.0.0.1:5173/
+   # Backend: http://127.0.0.1:5000/api/health
+   # Frontend: http://127.0.0.1:5173/
 
 ## Here are the list of the documentations found in this repo
 
@@ -61,3 +61,4 @@ Make it possible for future contributors (or you in 6 months) to:
 8. [Contributor and Role Management Documentation](https://github.com/LogicLabs-Academy/Campus-Link-Documentation)
 9. [Github Usage Documentation](https://github.com/LogicLabs-Academy/Campus-Link-Documentation)
 10. [Protected Routes Documentation](https://github.com/LogicLabs-Academy/Campus-Link-Documentation)
+
