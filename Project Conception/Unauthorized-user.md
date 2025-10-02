@@ -140,8 +140,9 @@ await api.post("/auth/register", { matric, password });
 
 ## References
 
-- `[Routing Guide]](../Routing.md)`
-- `[Database Setup]()`
-- `[Security Fixes](../Security%20and%20Authentication%20Documentation/README.md)`
+- [Routing Guide]](../Routing.md)
+- [Database Setup]()
+- [Security Fixes](../Security%20and%20Authentication%20Documentation/README.md)
 
 ---
+
