@@ -135,8 +135,9 @@ While testing "remember me" we noticed: after closing the browser and reopening,
 
 ## References
 
-- `[Routing Guide]](../Routing.md)`
-- `[Database Setup]()`
-- `[Security Fixes](../Security%20and%20Authentication%20Documentation/README.md)`
+- [Routing Guide](../Routing.md)
+- [Database Setup]()
+- [Security Fixes](../Security%20and%20Authentication%20Documentation/README.md)
 
 ---
+
