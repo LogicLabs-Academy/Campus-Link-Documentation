@@ -13,6 +13,20 @@ Make it possible for future contributors (or you in 6 months) to:
 - Reproduce issues locally
 - Apply fixes safely and quickly
 
+**Quick note worth knowing**
+Most of the issues that arised in the course of development came majorly from the among the following listed out. Hence it is advisable to check them out before venturing into the development work.
+
+- [Github and Related Issues.md](./)
+- [ProtectedRoutes and Related Issues.md](./Routing%20and%20Easter%20Egg%20Feature%20Documentation/ProtectedRoutes-Related-Issues.md)
+- [Security and Authentication Issues.md](./Security%20and%20Authentication%20Documentation/)
+  **Also check out [Project Conception.md](./Project%20Conception)**
+- [Database and Related Issues.md](./)
+- [Docker Setup and Usage Documentation.md](../Campus-Link-Docker/)
+- [CICD Pipeline Documentation.md](./)
+- [.env Evironment Uage Guide.md](./)
+- [Api and Connectivity Related Issues](./) **Also check out [Routing and Easter Egg Documentation.md](./Routing%20and%20Easter%20Egg%20Feature%20Documentation/)**
+  A solid grasp on these should be all it needs to have a smooth sail when such errors are encountered while developing.
+
 ---
 
 ## Structure (files you will find here)
